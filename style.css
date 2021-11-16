@@ -58,7 +58,7 @@ body{
     font-family: cursive;
 }
 .second-section{
-    height: 400px;
+    height: 500px;
     padding: 5%;
 
 }
@@ -71,11 +71,12 @@ body{
     padding-bottom: 6%;
 }
 .third-section{
-    background-image: url(photos/22.png);
+    background-image: url(photos/6.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 560px;
     padding: 5%;
+
 
 }
 .quater{
@@ -109,7 +110,7 @@ p{
     float: left;
     padding: 5%;
     text-align: center;
-    background-image: url(photos/Group_33094_1.png);
+    background-image: url(photos/7.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -118,7 +119,7 @@ p{
 }
 #fff{
     font-family: cursive;
-    color: rgb(246, 245, 247);
+    color: rgb(52, 33, 71);
     font-size: 200%;
     
 }
