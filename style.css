@@ -1,0 +1,131 @@
+.head{
+    font-size: 400%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.gap{
+    margin-top: -15%;
+    margin-bottom: 20%;
+}
+
+body{
+    
+    margin: 0px;
+}
+.red{
+    color: coral;
+}
+#blue{
+    color: rgb(46, 46, 207);
+}
+.fff{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 1px;
+}
+
+.first-section{
+  height: 560px;
+  padding-left: 5%;
+  padding-top: 2%;
+  
+}
+.half{
+    
+    width: 35%;
+    float: left;
+    padding: 5%;
+    
+    
+}
+
+.half img {
+    width: 120%;
+}
+.button{
+    background-image:linear-gradient(45deg,orange, tomato);
+    text-decoration: none;
+    padding: 15px 40px;
+    font-size: 25px;
+    color: black;
+    border-radius: 10px;
+    
+    
+    
+}
+.sf{
+    font-size: 250%;
+    color: rgb(13, 13, 114);
+    font-family: cursive;
+}
+.second-section{
+    height: 400px;
+    padding: 5%;
+
+}
+.second{
+    padding-left: 10%;
+}
+#center{
+    text-align: center;
+    font-family: cursive;
+    padding-bottom: 6%;
+}
+.third-section{
+    background-image: url(photos/22.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 560px;
+    padding: 5%;
+
+}
+.quater{
+    background-color: whitesmoke;
+    border-radius: 8px;
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin: 8px;
+    padding: 6px;
+    
+
+}
+.quater img{
+    width: 100%;
+}
+.font{
+    font-family: cursive;
+    color: rgb(85, 17, 99);
+}
+p{
+    font-family: cursive;
+}
+.last-section{
+    height: 300px;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+.last-half{
+    width: 70%;
+    float: left;
+    padding: 5%;
+    text-align: center;
+    background-image: url(photos/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+
+}
+#fff{
+    font-family: cursive;
+    color: rgb(246, 245, 247);
+    font-size: 200%;
+    
+}
+footer{
+    text-align: center;
+    padding-top: 5px;
+}
+.foot img{
+    width: 3%;
+}
