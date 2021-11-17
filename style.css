@@ -130,3 +130,11 @@ footer{
 .foot img{
     width: 3%;
 }
+.last-one{
+    background-image: url(photos/6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 560px;
+    padding: 5%;
+
+}
